@@ -16,13 +16,13 @@
 <br />
 <br />
 
-Hi there, I'm **Miniyan Parajuli**, a **Web Develoer** and a **Software Engineering student** 🚀 from Nepal. [@parajuliminiyan](https://github.com/parajuliminiyan). 
+Hi there, I'm **Miniyan Parajuli**, a **Web Developer** and a **Software Engineering student** 🚀 from Nepal. [@parajuliminiyan](https://github.com/parajuliminiyan). 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Software Engineer working on differnet web-based projects;
+- 👨🏽‍💻 I’m currently an Software Engineer working on different web-based projects;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via parajuliminiyan@gmail.com to reach me.
