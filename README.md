@@ -23,7 +23,7 @@ Hi there, I'm **Miniyan Parajuli**, a **Web Developer**  🚀 from Nepal. [@para
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently an Software Engineer working on different web-based projects;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
+- 💼 I have a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via parajuliminiyan@gmail.com to reach me.
 
